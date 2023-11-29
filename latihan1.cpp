@@ -13,7 +13,7 @@ using namespace std;
 int main()
 {
     struct orang{
-    	char nama[15];
+    	char nama[100];
       int umur;
     }saya;
 
