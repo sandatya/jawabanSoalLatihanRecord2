@@ -13,7 +13,7 @@ using namespace std;
 int main()
 {
     struct{
-    	char nama[50];
+    	char nama[100];
       int jml;
     }stock;
 
